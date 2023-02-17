@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on NLP
 - 🤔 I’m looking for help with how to become a better researcher!
 - 💬 Ask me about my course on ML System Design
-- 📫 How to reach me: https://www.linkedin.com/in/rithwiksivadasan/
+- 📫 How to reach me: https://www.linkedin.com/rithwiksivadasan
 
 
 <!--
