@@ -1,5 +1,5 @@
 
-## I set my daily goals only on Monday
+## I set my daily goals only on Monday and clear my spam folder to decrease carbon footprint 
 
 
 
