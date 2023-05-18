@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on being a better Data Scientist with a perspective on real world examples
+- 🔭 I’m currently working on being a better at leveraging my data science and analytical acumen in solving real world problems
 - 📫 How to reach me: https://www.linkedin.com/in/rithwik-sivadasan/
 
 
